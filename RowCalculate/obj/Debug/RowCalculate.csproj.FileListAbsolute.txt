@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\RowCalculate\RowCalculate\bin\Debug\RowCalculate.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\RowCalculate\RowCalculate\bin\Debug\RowCalculate.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\RowCalculate\RowCalculate\bin\Debug\RowCalculate.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\RowCalculate\RowCalculate\obj\Debug\RowCalculate.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\RowCalculate\RowCalculate\obj\Debug\RowCalculate.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\RowCalculate\RowCalculate\obj\Debug\RowCalculate.pdb
